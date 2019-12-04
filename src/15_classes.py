@@ -47,8 +47,6 @@ class Geocache(Waypoint):
 
 waypoint = Waypoint('Catacombs', 41.70505, -121.51521)
 
-# print(f'{waypoint.name}, {waypoint.lat}, {waypoint.lon}')
-
 
 # Without changing the following line, how can you make it print into something
 # more human-readable? Hint: Look up the `object.__str__` method
